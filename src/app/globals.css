@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+/* Палитра зала суда: тёмное дерево, латунь, пергамент */
+@theme {
+  --color-wood-950: #140d08;
+  --color-wood-900: #1f150e;
+  --color-wood-800: #2c1e14;
+  --color-wood-700: #3d2a1c;
+  --color-wood-600: #574030;
+  --color-brass-300: #f0d48a;
+  --color-brass-400: #e2bd5c;
+  --color-brass-500: #c99a35;
+  --color-parchment: #f3e9d2;
+  --color-verdict-red: #c2453a;
+  --color-verdict-green: #4f9d69;
+  --font-sans: var(--font-inter);
+  --font-display: var(--font-display-serif);
+}
+
+/* Категориальная палитра графиков (тёмный вариант, проверена валидатором на фоне wood-900).
+   В :root, а не в @theme: Tailwind не выводит переменные темы, которые не используются в классах. */
+:root {
+  --color-series-1: #3987e5;
+  --color-series-2: #d95926;
+  --color-series-3: #199e70;
+  --color-series-4: #c98500;
+  --color-series-5: #d55181;
+  --color-series-6: #008300;
+  --color-series-7: #9085e9;
+}
+
+body {
+  background: var(--color-wood-950);
+  color: var(--color-parchment);
+}
+
+input,
+select,
+textarea {
+  color-scheme: dark;
+}
+
+/* Печать отчёта (экспорт в PDF): светлый фон вместо тёмного дерева */
+@media print {
+  body {
+    background: white;
+    color: black;
+  }
+  @page {
+    margin: 14mm;
+  }
+}

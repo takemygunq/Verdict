@@ -1,0 +1,11 @@
+{
+  "_comment": "Модели для CLI-мостов: у CLI нет эндпоинта со списком. «default» — модель, выбранная в самом CLI. Добавляйте свои ID — они появятся по кнопке «Подтянуть список моделей».",
+  "claude-cli": [
+    { "id": "default", "label": "Модель по умолчанию в Claude Code" },
+    { "id": "opus", "label": "Opus (последняя)" },
+    { "id": "sonnet", "label": "Sonnet (последняя)" },
+    { "id": "haiku", "label": "Haiku (последняя)" }
+  ],
+  "codex-cli": [{ "id": "default", "label": "Модель по умолчанию в Codex" }],
+  "gemini-cli": [{ "id": "default", "label": "Модель по умолчанию в Gemini CLI" }]
+}

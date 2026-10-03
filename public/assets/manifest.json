@@ -1,0 +1,286 @@
+{
+  "version": 1,
+  "backgrounds": {
+    "default": "bg/default.jpg",
+    "verdict": "bg/verdict.jpg"
+  },
+  "characters": {
+    "judge": {
+      "emotions": {
+        "confident": "characters/judge/confident.webp",
+        "angry": "characters/judge/angry.webp",
+        "skeptical": "characters/judge/skeptical.webp",
+        "surprised": "characters/judge/surprised.webp",
+        "laughing": "characters/judge/laughing.webp",
+        "thinking": "characters/judge/thinking.webp",
+        "sad": "characters/judge/sad.webp"
+      },
+      "walk": [
+        "characters/judge/walk-1.webp",
+        "characters/judge/walk-2.webp"
+      ],
+      "moods": {},
+      "idle": "characters/judge/idle.webp"
+    },
+    "prosecutor": {
+      "emotions": {
+        "confident": "characters/prosecutor/confident.webp",
+        "angry": "characters/prosecutor/angry.webp",
+        "skeptical": "characters/prosecutor/skeptical.webp",
+        "surprised": "characters/prosecutor/surprised.webp",
+        "laughing": "characters/prosecutor/laughing.webp",
+        "thinking": "characters/prosecutor/thinking.webp",
+        "sad": "characters/prosecutor/sad.webp"
+      },
+      "walk": [
+        "characters/prosecutor/walk-1.webp",
+        "characters/prosecutor/walk-2.webp"
+      ],
+      "moods": {},
+      "idle": "characters/prosecutor/idle.webp"
+    },
+    "defendant-scroll": {
+      "emotions": {},
+      "walk": [
+        "characters/defendant-scroll/walk-1.webp",
+        "characters/defendant-scroll/walk-2.webp"
+      ],
+      "moods": {
+        "ecstatic": "characters/defendant-scroll/mood-ecstatic.webp",
+        "happy": "characters/defendant-scroll/mood-happy.webp",
+        "nervous": "characters/defendant-scroll/mood-nervous.webp",
+        "sweating": "characters/defendant-scroll/mood-sweating.webp"
+      },
+      "idle": "characters/defendant-scroll/idle.webp"
+    },
+    "secretary": {
+      "emotions": {
+        "confident": "characters/secretary/confident.webp",
+        "angry": "characters/secretary/angry.webp",
+        "skeptical": "characters/secretary/skeptical.webp",
+        "surprised": "characters/secretary/surprised.webp",
+        "laughing": "characters/secretary/laughing.webp",
+        "thinking": "characters/secretary/thinking.webp",
+        "sad": "characters/secretary/sad.webp"
+      },
+      "walk": [
+        "characters/secretary/walk-1.webp",
+        "characters/secretary/walk-2.webp"
+      ],
+      "moods": {},
+      "idle": "characters/secretary/idle.webp"
+    },
+    "defense": {
+      "emotions": {
+        "confident": "characters/defense/confident.webp",
+        "angry": "characters/defense/angry.webp",
+        "skeptical": "characters/defense/skeptical.webp",
+        "surprised": "characters/defense/surprised.webp",
+        "laughing": "characters/defense/laughing.webp",
+        "thinking": "characters/defense/thinking.webp",
+        "sad": "characters/defense/sad.webp"
+      },
+      "walk": [
+        "characters/defense/walk-1.webp",
+        "characters/defense/walk-2.webp"
+      ],
+      "moods": {},
+      "idle": "characters/defense/idle.webp"
+    },
+    "witness": {
+      "emotions": {
+        "confident": "characters/witness/confident.webp",
+        "angry": "characters/witness/angry.webp",
+        "surprised": "characters/witness/surprised.webp",
+        "laughing": "characters/witness/laughing.webp",
+        "thinking": "characters/witness/thinking.webp",
+        "sad": "characters/witness/sad.webp",
+        "skeptical": "characters/witness/skeptical.webp"
+      },
+      "walk": [
+        "characters/witness/walk-1.webp",
+        "characters/witness/walk-2.webp"
+      ],
+      "moods": {},
+      "idle": "characters/witness/idle.webp"
+    },
+    "juror-1": {
+      "emotions": {
+        "confident": "characters/juror-1/confident.webp",
+        "angry": "characters/juror-1/angry.webp",
+        "skeptical": "characters/juror-1/skeptical.webp",
+        "surprised": "characters/juror-1/surprised.webp",
+        "laughing": "characters/juror-1/laughing.webp",
+        "thinking": "characters/juror-1/thinking.webp",
+        "sad": "characters/juror-1/sad.webp"
+      },
+      "walk": [
+        "characters/juror-1/walk-1.webp",
+        "characters/juror-1/walk-2.webp"
+      ],
+      "moods": {},
+      "idle": "characters/juror-1/idle.webp"
+    },
+    "juror-2": {
+      "emotions": {
+        "confident": "characters/juror-2/confident.webp",
+        "angry": "characters/juror-2/angry.webp",
+        "skeptical": "characters/juror-2/skeptical.webp",
+        "surprised": "characters/juror-2/surprised.webp",
+        "laughing": "characters/juror-2/laughing.webp",
+        "thinking": "characters/juror-2/thinking.webp",
+        "sad": "characters/juror-2/sad.webp"
+      },
+      "walk": [
+        "characters/juror-2/walk-1.webp",
+        "characters/juror-2/walk-2.webp"
+      ],
+      "moods": {},
+      "idle": "characters/juror-2/idle.webp"
+    },
+    "juror-3": {
+      "emotions": {
+        "confident": "characters/juror-3/confident.webp",
+        "angry": "characters/juror-3/angry.webp",
+        "skeptical": "characters/juror-3/skeptical.webp",
+        "surprised": "characters/juror-3/surprised.webp",
+        "laughing": "characters/juror-3/laughing.webp",
+        "thinking": "characters/juror-3/thinking.webp",
+        "sad": "characters/juror-3/sad.webp"
+      },
+      "walk": [
+        "characters/juror-3/walk-1.webp",
+        "characters/juror-3/walk-2.webp"
+      ],
+      "moods": {},
+      "idle": "characters/juror-3/idle.webp"
+    },
+    "juror-4": {
+      "emotions": {
+        "confident": "characters/juror-4/confident.webp",
+        "angry": "characters/juror-4/angry.webp",
+        "skeptical": "characters/juror-4/skeptical.webp",
+        "surprised": "characters/juror-4/surprised.webp",
+        "laughing": "characters/juror-4/laughing.webp",
+        "thinking": "characters/juror-4/thinking.webp",
+        "sad": "characters/juror-4/sad.webp"
+      },
+      "walk": [
+        "characters/juror-4/walk-1.webp",
+        "characters/juror-4/walk-2.webp"
+      ],
+      "moods": {},
+      "idle": "characters/juror-4/idle.webp"
+    },
+    "juror-5": {
+      "emotions": {
+        "confident": "characters/juror-5/confident.webp",
+        "angry": "characters/juror-5/angry.webp",
+        "skeptical": "characters/juror-5/skeptical.webp",
+        "surprised": "characters/juror-5/surprised.webp",
+        "laughing": "characters/juror-5/laughing.webp",
+        "thinking": "characters/juror-5/thinking.webp",
+        "sad": "characters/juror-5/sad.webp"
+      },
+      "walk": [
+        "characters/juror-5/walk-1.webp",
+        "characters/juror-5/walk-2.webp"
+      ],
+      "moods": {},
+      "idle": "characters/juror-5/idle.webp"
+    },
+    "juror-6": {
+      "emotions": {
+        "confident": "characters/juror-6/confident.webp",
+        "angry": "characters/juror-6/angry.webp",
+        "skeptical": "characters/juror-6/skeptical.webp",
+        "surprised": "characters/juror-6/surprised.webp",
+        "laughing": "characters/juror-6/laughing.webp",
+        "thinking": "characters/juror-6/thinking.webp",
+        "sad": "characters/juror-6/sad.webp"
+      },
+      "walk": [
+        "characters/juror-6/walk-1.webp",
+        "characters/juror-6/walk-2.webp"
+      ],
+      "moods": {},
+      "idle": "characters/juror-6/idle.webp"
+    },
+    "defendant-film": {
+      "emotions": {},
+      "walk": [
+        "characters/defendant-film/walk-1.webp",
+        "characters/defendant-film/walk-2.webp"
+      ],
+      "moods": {
+        "ecstatic": "characters/defendant-film/mood-ecstatic.webp",
+        "happy": "characters/defendant-film/mood-happy.webp",
+        "nervous": "characters/defendant-film/mood-nervous.webp",
+        "sweating": "characters/defendant-film/mood-sweating.webp"
+      },
+      "idle": "characters/defendant-film/idle.webp"
+    },
+    "defendant-folder": {
+      "emotions": {},
+      "walk": [
+        "characters/defendant-folder/walk-1.webp",
+        "characters/defendant-folder/walk-2.webp"
+      ],
+      "moods": {
+        "ecstatic": "characters/defendant-folder/mood-ecstatic.webp",
+        "happy": "characters/defendant-folder/mood-happy.webp",
+        "nervous": "characters/defendant-folder/mood-nervous.webp",
+        "sweating": "characters/defendant-folder/mood-sweating.webp"
+      },
+      "idle": "characters/defendant-folder/idle.webp"
+    },
+    "defendant-frame": {
+      "emotions": {},
+      "walk": [
+        "characters/defendant-frame/walk-1.webp",
+        "characters/defendant-frame/walk-2.webp"
+      ],
+      "moods": {
+        "ecstatic": "characters/defendant-frame/mood-ecstatic.webp",
+        "happy": "characters/defendant-frame/mood-happy.webp",
+        "nervous": "characters/defendant-frame/mood-nervous.webp",
+        "sweating": "characters/defendant-frame/mood-sweating.webp"
+      },
+      "idle": "characters/defendant-frame/idle.webp"
+    },
+    "witness-female": {
+      "emotions": {
+        "confident": "characters/witness-female/confident.webp",
+        "angry": "characters/witness-female/angry.webp",
+        "skeptical": "characters/witness-female/skeptical.webp",
+        "surprised": "characters/witness-female/surprised.webp",
+        "laughing": "characters/witness-female/laughing.webp",
+        "thinking": "characters/witness-female/thinking.webp",
+        "sad": "characters/witness-female/sad.webp"
+      },
+      "walk": [
+        "characters/witness-female/walk-1.webp",
+        "characters/witness-female/walk-2.webp"
+      ],
+      "moods": {},
+      "idle": "characters/witness-female/idle.webp"
+    }
+  },
+  "objects": {
+    "judge-bench": "objects/judge-bench.webp",
+    "secretary-desk": "objects/secretary-desk.webp",
+    "witness-stand": "objects/witness-stand.webp",
+    "podium": "objects/podium.webp",
+    "counsel-table": "objects/counsel-table.webp",
+    "dock": "objects/dock.webp",
+    "jury-box": "objects/jury-box.webp",
+    "gallery-bench": "objects/gallery-bench.webp",
+    "gavel": "objects/gavel.webp",
+    "verdict-plaque": "objects/verdict-plaque.webp",
+    "jury-box-front": "objects/jury-box-front.webp"
+  },
+  "videos": {
+    "gavel": "video/gavel.webm",
+    "verdict": "video/verdict.webm"
+  }
+}

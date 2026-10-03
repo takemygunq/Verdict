@@ -1,0 +1,280 @@
+{
+  "_comment": "Ассеты сгенерированы в Higgsfield (gpt_image_2_5, high, прозрачный фон). Эмоции и позы — правкой по референсу idle. Импорт: node scripts/assets/import.mjs",
+  "backgrounds": {
+    "default": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124546_7c1a7fd5-25cb-4a8e-95ae-d233b8d1f6c0.png",
+    "verdict": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125012_2e9296af-6353-4fdc-989b-77a166213911.png"
+  },
+  "characters": {
+    "judge": {
+      "idle": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_122446_dd3e4745-0353-4932-beaf-4bdcf33be0df.png",
+      "emotions": {
+        "confident": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_122926_37f14a58-476c-4282-a687-46eadc2ed6e0.png",
+        "angry": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_122926_4ad75798-0c6f-4b72-aca9-42081fbe9c59.png",
+        "skeptical": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_122926_f582bba5-04b4-4f97-87dd-4ca3eafba9fd.png",
+        "surprised": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_122925_f84849b2-6512-4645-aa07-ab85f583b2a3.png",
+        "laughing": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_123031_e122835e-b248-4eaa-9ec8-fb73f67c20ae.png",
+        "thinking": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_123032_39804947-a2bf-4d11-be01-4329195e78aa.png",
+        "sad": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_123031_a98862dd-ae4f-42cb-ae89-bb446475e6ef.png"
+      },
+      "walk": [
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_122925_d1d77f47-a450-42b0-93c9-369176c840c3.png",
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_123031_a7b71f08-e20d-490a-a000-cc1cd2b7cc6f.png"
+      ]
+    },
+    "prosecutor": {
+      "idle": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_122447_dfe22424-702c-47ad-93a5-217c0ef42b28.png",
+      "emotions": {
+        "confident": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_122925_a78ec21c-6e71-4a1f-a12a-1b3038457036.png",
+        "angry": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_122926_e767a6dd-54e0-4fd8-9d72-2238ff112720.png",
+        "skeptical": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_122925_12993279-875f-4b66-9559-bdd063c9e7c1.png",
+        "surprised": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_123031_abbfd104-d2d3-45f3-84d3-eff28da9c9a8.png",
+        "laughing": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_123032_abec0e1f-01d3-45c1-bd3a-c3f24effff21.png",
+        "thinking": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_123125_284ab3be-8e91-46af-8ff2-bdcb8056feba.png",
+        "sad": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_123125_35c9e1c7-61ca-4b84-b9da-f7028f1a449c.png"
+      },
+      "walk": [
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_123125_f58446c9-113a-4554-9be4-d4125f56fdf1.png",
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_123124_180126c1-c0f4-482a-af08-291ca125483a.png"
+      ]
+    },
+    "defendant-scroll": {
+      "idle": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_122446_fdfcab0f-8399-4163-ad7b-7f1d69f35369.png",
+      "moods": {
+        "ecstatic": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_123125_4eb86e58-0bf8-486d-8e35-d94c68a35407.png",
+        "happy": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_123125_eedd6958-717b-462b-a7ff-7cd5d3a2f486.png",
+        "nervous": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_123155_2bd0a1e0-b445-49f1-aafd-61959b3da569.png",
+        "sweating": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_123155_5bb36dd1-fd26-4454-b029-c94f719df8f3.png"
+      },
+      "walk": [
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_123156_68b046cf-68ae-48d5-aede-1d0a6a44edc6.png",
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_123155_4a91f79a-f714-4ae2-b817-c6f380786d7d.png"
+      ]
+    },
+    "secretary": {
+      "idle": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124002_1f07fda9-5f45-4405-b136-303799268e23.png",
+      "emotions": {
+        "confident": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124431_0a965f0d-24c0-4dae-900c-a903adba4fba.png",
+        "angry": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124430_209bfedd-0f9f-4d65-a4e9-397b56a782be.png",
+        "skeptical": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124430_ef12055f-c285-4f72-902f-db819f04b72c.png",
+        "surprised": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124429_d6d35cb2-c88c-450c-86e4-5f05d9d4406a.png",
+        "laughing": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124429_69566f8c-4202-4b15-86a1-82382885e201.png",
+        "thinking": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124429_8463500a-642a-43c8-87ea-ffb7fadb0e0c.png",
+        "sad": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124430_5a948436-9c89-4185-96ab-7a01eea5a5e9.png"
+      },
+      "walk": [
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124428_fb87d1b5-eb13-4cdb-8176-ff3c51aae7d2.png",
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124546_670b96a3-00a7-4e42-8618-5388bbd89773.png"
+      ]
+    },
+    "defense": {
+      "idle": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124003_08de88fd-9145-4b41-9fef-0f975b2d2539.png",
+      "emotions": {
+        "confident": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124545_c9273d58-9698-4b0f-8a4f-3de277a9ff11.png",
+        "angry": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124545_b918f83c-48fa-4f12-9cad-be9c8ec3d0cf.png",
+        "skeptical": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124546_807d9b79-ed19-42e2-8cc9-5e75f69040e1.png",
+        "surprised": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124547_3985225e-dea5-4c08-836a-bb8e1600e6cf.png",
+        "laughing": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124546_b27a1340-cbc6-436f-af70-d0be96f60e03.png",
+        "thinking": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124545_e226d2f6-8215-4951-9223-9a305c3709e7.png",
+        "sad": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124818_67858ac5-40ce-4e68-b0f2-fcfb24f93231.png"
+      },
+      "walk": [
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124817_647f7933-fa0d-47bf-8428-9dcf1bc9d6dc.png",
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124816_227e67a8-f67b-47a4-a2b2-b81719ca7c88.png"
+      ]
+    },
+    "witness": {
+      "idle": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124002_758df05a-7a03-4bcb-b2c2-8f9c420c8bdb.png",
+      "emotions": {
+        "confident": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124819_52814f66-36e1-4d05-ab1c-4b7db4f63d70.png",
+        "angry": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124817_93b36031-48ab-4edc-9661-97a4389377ba.png",
+        "surprised": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124818_7ec07725-e9d3-4eec-897a-d71520829bee.png",
+        "laughing": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124816_18e97d3b-2e5f-4f9f-af4f-db94da883393.png",
+        "thinking": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125013_e84aeabf-0380-4323-8f8c-29c13641d3ca.png",
+        "sad": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125011_ea33b582-37a5-45d7-84cd-6718f6acaa4e.png",
+        "skeptical": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124817_b4f381b1-a2ce-4524-b253-5fcdc2508521.png"
+      },
+      "walk": [
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125012_32c56e4b-f3f2-4e0c-bebd-b918b008f86b.png",
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125012_ef6a823a-f06d-4de8-9219-98b41988df2e.png"
+      ]
+    },
+    "juror-1": {
+      "idle": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124003_d9e4bae9-e725-4527-a9f7-bc64ce63fc7e.png",
+      "emotions": {
+        "confident": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125012_ec1a48fd-6016-4c5f-b547-5c5d105d110b.png",
+        "angry": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125011_3934b39e-2fda-4260-9c31-f6d7fd265a79.png",
+        "skeptical": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125057_689e665d-c125-4917-84f9-9eb49e2e23f7.png",
+        "surprised": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125056_3ef7f646-9d2c-4114-826f-2c13117475ca.png",
+        "laughing": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125057_e1127d41-9cc8-40c1-a481-7c62385490f4.png",
+        "thinking": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125056_de364e21-7ce9-455a-a46a-d4e87904456c.png",
+        "sad": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125058_8f020796-3248-479b-906e-53997266c8d4.png"
+      },
+      "walk": [
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125057_ded0a4ad-9a4e-47bd-99b3-cda9d79f838e.png",
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125205_adb38229-a921-4ff0-b391-38868ea19758.png"
+      ]
+    },
+    "juror-2": {
+      "idle": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124002_2b4a1e0a-13ed-40e7-bfbf-ee06466e6cd6.png",
+      "emotions": {
+        "confident": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125205_6cebbe18-712f-47c0-8b10-66883ccf3d5b.png",
+        "angry": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125205_31bab119-58b6-4c89-b38c-3a1c298583c3.png",
+        "skeptical": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125205_a65c9f3f-7729-4719-bb54-f3366d8c70e4.png",
+        "surprised": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125204_a8160ea0-53ac-4f0e-99a3-858367d1574f.png",
+        "laughing": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125204_84403558-0308-417c-92c2-e53fab808580.png",
+        "thinking": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125206_6f5e991f-277c-4043-8c86-e51a1e6a8e65.png",
+        "sad": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125204_644f51f0-59eb-4793-bbcf-2d3c4e64e316.png"
+      },
+      "walk": [
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125252_9e66f79f-1d0d-438d-9baf-801c0dbb1796.png",
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125250_edf47a99-8fa1-413b-92b5-dd4417c9ba20.png"
+      ]
+    },
+    "juror-3": {
+      "idle": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124003_2abf996f-cd9e-44f8-976f-ec651abf600c.png",
+      "emotions": {
+        "confident": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125251_004ab444-1cac-4d06-9f14-332c61b674eb.png",
+        "angry": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125252_48e9b823-c109-40b9-8906-2eb889843105.png",
+        "skeptical": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125251_0cde9af0-25fd-4226-ba2a-cddbb831299e.png",
+        "surprised": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125252_5be176dd-037b-4892-9b92-a912aed8ff76.png",
+        "laughing": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125250_b2b25b17-c93c-4308-bcc7-db5093d80c32.png",
+        "thinking": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125250_9a07daf2-a6ef-45ab-a6a0-7e9c19d930a4.png",
+        "sad": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125433_03d22f4b-5e46-41bb-90a5-3081efe1b561.png"
+      },
+      "walk": [
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125433_d132904e-a037-424f-96ff-bf6d12f5277e.png",
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125431_7d9ba030-aaa5-408e-be85-66b37c8db21d.png"
+      ]
+    },
+    "juror-4": {
+      "idle": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124049_db12a4e1-079a-4557-a0dd-d7bb91e46cb5.png",
+      "emotions": {
+        "confident": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125432_1200fe00-0e8a-45f9-af64-05718669f8c0.png",
+        "angry": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125432_c4366539-4284-4991-aacb-aae9b02f1b7f.png",
+        "skeptical": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125433_8fb5cefc-f300-4aeb-a1c7-cdb1f3c04d5a.png",
+        "surprised": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125432_a4242fd6-fbf1-4696-97a3-f00ba0114fce.png",
+        "laughing": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125432_d0fa5b0a-b660-4ea8-9a6a-57facf4eda46.png",
+        "thinking": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125556_262682a7-d8b0-4b6e-9248-8c54846a6d02.png",
+        "sad": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125555_897fbf59-0291-42a9-b9be-164e96367b8f.png"
+      },
+      "walk": [
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125555_f214ef77-8c44-49be-952c-7aeed3371090.png",
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125555_69041000-dcfb-4c0a-a19b-440b9bcadaa8.png"
+      ]
+    },
+    "juror-5": {
+      "idle": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124049_468dc654-43a7-4d20-8b3d-27f5d82bb758.png",
+      "emotions": {
+        "confident": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125556_797ff16c-f229-48f9-8bc0-4fd4a69867db.png",
+        "angry": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125555_7107be0d-d2d7-47c0-8d2a-55f2fdf23882.png",
+        "skeptical": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125556_848821b7-eb7e-4f9b-8ec2-7bb51b77da23.png",
+        "surprised": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125557_9465e2c6-41a4-4672-8360-561bcb8ebf9b.png",
+        "laughing": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125733_f1f59651-0b5f-4bb2-a27a-80dc6a1fd1b2.png",
+        "thinking": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125732_fca34b1b-c345-4e84-893c-4829a9999224.png",
+        "sad": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125732_6eb9f8d5-da8a-4d7f-a3a7-b3a5917cb815.png"
+      },
+      "walk": [
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125731_5d4bbdc7-43ae-4888-ad4c-ec9608566cdb.png",
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125733_6512b3cf-4419-40ca-95fe-0f7a530a92a9.png"
+      ]
+    },
+    "juror-6": {
+      "idle": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124050_11f3e8a7-cc99-4ff1-a1a9-4e9f0f4ea641.png",
+      "emotions": {
+        "confident": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125731_5bed41ea-41fe-4253-a1be-ffd8d230b5ad.png",
+        "angry": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125732_e5584e57-30dd-4b9b-82bb-d1f08d906ad2.png",
+        "skeptical": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125733_1689449e-6306-4224-a0c1-0da3fde481b6.png",
+        "surprised": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125902_8f413783-f8b5-4df3-a04b-13235b858faa.png",
+        "laughing": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125901_5ed05406-08e7-4f49-94d4-a4f0696776e4.png",
+        "thinking": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125902_2e69d46c-833b-439f-b226-79b606d6c3c5.png",
+        "sad": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125903_5b1648b7-2f34-4d9d-8aa5-77d4a1765c84.png"
+      },
+      "walk": [
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125901_3d27cc83-d4b9-4f77-a139-0190e0b0e4d4.png",
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125901_482dc51c-9acf-4916-96fb-fc1253f60e8b.png"
+      ]
+    },
+    "defendant-film": {
+      "idle": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124050_35e3f5e4-9987-4791-b656-30b7066214b3.png",
+      "moods": {
+        "ecstatic": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125901_89f9772c-a5b6-41ce-9874-1c470d431bf4.png",
+        "happy": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125902_5d9d1350-c1b1-491e-aca5-740eb15ce41e.png",
+        "nervous": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125944_c93fb574-2b36-4323-9890-2c31f9660ebb.png",
+        "sweating": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125945_d67d456e-7e98-4e8c-9d71-4a31e2d743f4.png"
+      },
+      "walk": [
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125945_2eed7be3-de4e-45ac-bdeb-8835b807b48d.png",
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125945_05f0039f-10df-4c1b-8891-7881a9aed010.png"
+      ]
+    },
+    "defendant-folder": {
+      "idle": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124049_80abeaf6-b7c0-4914-bb09-65713cc110b2.png",
+      "moods": {
+        "ecstatic": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125944_1546a5a5-5181-4ed9-9336-7fec720a4a4f.png",
+        "happy": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_130034_b75ea47d-2f21-40e6-a2f4-542055f1d23b.png",
+        "nervous": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_130032_533a9f6c-43a6-4110-b40d-5f384da27d93.png",
+        "sweating": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_130034_7dde6410-4f52-4763-945f-1495122600d7.png"
+      },
+      "walk": [
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_130032_f6d34538-0c8f-4c4c-b0cc-7d0aae8d9171.png",
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_130032_51cf614f-7031-42e1-b786-b95d561dcfee.png"
+      ]
+    },
+    "defendant-frame": {
+      "idle": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124050_9bb95b82-79e7-47fc-a11b-e0c86b6fa83e.png",
+      "moods": {
+        "ecstatic": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_130033_2e18bdfb-8495-4494-8f8b-9f41786d4dbd.png",
+        "happy": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_130033_117e6698-1697-4992-ace4-d3e88430ec22.png",
+        "nervous": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_130033_a752f9cf-0cd8-4344-a298-a7e573f8904d.png",
+        "sweating": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_130105_3d73f12c-54ac-4021-9621-0e18f8b1003d.png"
+      },
+      "walk": [
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_130104_823f742e-e685-4197-a162-d92ff8d187c2.png",
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_130104_380d8d8b-3649-4ba6-bf45-4a4808ea396a.png"
+      ]
+    },
+    "witness-female": {
+      "idle": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_130706_f5e5f4e8-732c-47f1-b8b8-f0ecd8b229aa.png",
+      "emotions": {
+        "confident": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_130802_86821ec4-f118-4931-958e-2ace56345a83.png",
+        "angry": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_130802_e67f5305-37ee-47fb-a4bd-ae828cc26848.png",
+        "skeptical": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_130802_28809c66-d28a-4baf-aa85-c23b84f50bfb.png",
+        "surprised": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_130802_6f34b2f8-66c8-4797-a74a-ec7eabfa3bc4.png",
+        "laughing": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_130801_694d5272-7f23-4743-b85c-8151014d1c0b.png",
+        "thinking": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_130803_47f0b172-3a88-4aa0-bdd9-06583427c1ab.png",
+        "sad": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_130802_c948483b-9392-47ed-95b2-31dc31f13ead.png"
+      },
+      "walk": [
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_130803_0c010787-090f-485a-a395-b93f0aec0f9b.png",
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_130834_632c9d37-33e6-4888-9a20-ed1279f6e24c.png"
+      ]
+    }
+  },
+  "objects": {
+    "judge-bench": {
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124137_a235f2ca-744d-42ef-83ab-09a75db706ea.png",
+      "cropTop": 0.33
+    },
+    "secretary-desk": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124138_c7e9c6d1-4c61-4f54-85b1-b9492dd5bff9.png",
+    "witness-stand": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124136_a367f2e7-134b-49bd-a37a-4728f6ea8e57.png",
+    "podium": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124137_9dfa515e-f6e2-4bd9-aa09-3db2b759700b.png",
+    "counsel-table": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124136_7cd48976-8164-4a06-b04c-cdea9321f1e2.png",
+    "dock": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124137_9d5add4d-0fb3-4c8e-82da-a8ce22ff8069.png",
+    "jury-box": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124257_8dafbae8-d871-4b2f-98d2-007e8a0b5eb8.png",
+    "gallery-bench": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124258_45aa0d90-a582-4cc7-adc2-28ef1d381837.png",
+    "gavel": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124257_eb32bb6b-e52a-4f7e-b43f-aac7bcf85d13.png",
+    "verdict-plaque": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124258_b1e89f73-7161-4223-9d32-730c1cd16960.png",
+    "jury-box-front": {
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124257_8dafbae8-d871-4b2f-98d2-007e8a0b5eb8.png",
+      "cropTop": 0.5
+    }
+  },
+  "videos": {
+    "gavel": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125247_a06d62bd-4396-4509-989a-83301704fb39.mp4",
+    "verdict": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_125248_f8692bab-666e-4b51-b76f-2f99fc3052a5.mp4"
+  },
+  "brand": {
+    "logo": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124258_69f074be-c86a-4e1d-b908-d92cbba1639b.png",
+    "icon": "https://d8j0ntlcm91z4.cloudfront.net/user_3JsNcfoKBiYYPClpggKpjDvqmqz/hf_20261003_124258_88415d64-e36f-4a4c-a910-9000693eb6fc.png"
+  }
+}
