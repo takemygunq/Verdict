@@ -1,6 +1,6 @@
 # Verdict
 
-ИИ-суд над маркетинговыми проектами. [English version](README.md) · спецификация — в [SPEC.md](SPEC.md).
+ИИ-суд над маркетинговыми проектами. [English version](README.md)
 
 ## Запуск
 

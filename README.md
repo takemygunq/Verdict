@@ -157,5 +157,3 @@ npm run lint
 - One adapter interface for every provider; structured JSON answers validated with **zod**, with a retry that shows the model its own error
 - The trial engine is plain TypeScript: rounds, stop rules and score aggregation are code, the models only argue
 - All prompts live in [`prompts/`](prompts) as Markdown and are re-read on every call — edit them without restarting
-
-Specification: [SPEC.md](SPEC.md) (in Russian).
