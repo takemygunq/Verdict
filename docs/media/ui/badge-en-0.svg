@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="127" height="28" viewBox="0 0 127 28" role="img" aria-label="Next.js 16">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#c9a227"/><stop offset="1" stop-color="#f0d36b"/></linearGradient></defs>
+<rect x=".5" y=".5" width="126" height="27" rx="13.5" fill="#17130a" stroke="#c9a227" stroke-opacity=".45"/>
+<g transform="translate(18,14)" fill="none" stroke="#c9a227" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle r="7"/><path d="M-2.5 -4v8M-2.5 -4l6 8" stroke="#f0d36b"/></g>
+<text x="34" y="18" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="11" font-weight="600" fill="#f3e9df">Next.js</text>
+<path d="M91.6 1h23.6a12 12 0 0 1 12 12v2a12 12 0 0 1-12 12h-23.6z" fill="url(#g)"/>
+<text x="102.6" y="18" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="11" font-weight="800" fill="#17130a">16</text>
+</svg>

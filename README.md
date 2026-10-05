@@ -8,11 +8,11 @@ Upload an ad, a video, a strategy or a media plan — a jury of AI models argues
 and delivers a verdict: how likely it is to succeed, who it's for and what exactly to fix.
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs" alt="Next.js 16" />
-  <img src="https://img.shields.io/badge/TypeScript-strict-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PixiJS-8-E91E63?style=flat-square" alt="PixiJS 8" />
-  <img src="https://img.shields.io/badge/SQLite-local-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/models-Claude%20·%20GPT%20·%20Gemini%20·%20Ollama-c9a227?style=flat-square" alt="Claude, GPT, Gemini, Ollama" />
+  <img src="docs/media/ui/badge-en-0.svg" height="28" alt="Next.js 16" />
+  <img src="docs/media/ui/badge-en-1.svg" height="28" alt="TypeScript strict" />
+  <img src="docs/media/ui/badge-en-2.svg" height="28" alt="PixiJS 8" />
+  <img src="docs/media/ui/badge-en-3.svg" height="28" alt="SQLite local" />
+  <img src="docs/media/ui/badge-en-4.svg" height="28" alt="models Claude · GPT · Gemini · Ollama" />
 </p>
 
 <img src="docs/media/trial.gif" alt="A trial in progress: the judge opens the session, the prosecutor and jurors take the stand" width="100%" />
@@ -104,15 +104,15 @@ If the court changes its mind, it has to say so and explain why — no silent co
 
 ## Features
 
-- ⚖️ **Adversarial multi-model trial** — prosecutor, defense, witness and 2–4 expert jurors, a secretary running the
+- <img src="docs/media/ui/scales.svg" width="22" height="22" align="absmiddle" alt="" /> **Adversarial multi-model trial** — prosecutor, defense, witness and 2–4 expert jurors, a secretary running the
   hearing and an independent judge; each role can use a different provider so the opinions really differ
-- 🎬 **Animated courtroom** in PixiJS with 16 characters, emotions, cutaway videos and a replay
-- 📊 **Two scores** — the chance of success and the quality of the plan — and calculations done by code, so the
+- <img src="docs/media/ui/film.svg" width="22" height="22" align="absmiddle" alt="" /> **Animated courtroom** in PixiJS with 16 characters, emotions, cutaway videos and a replay
+- <img src="docs/media/ui/chart.svg" width="22" height="22" align="absmiddle" alt="" /> **Two scores** — the chance of success and the quality of the plan — and calculations done by code, so the
   participants argue about assumptions rather than arithmetic
-- 🎯 **Appeals** — a short re-hearing for one specific audience with advice tailored to it
-- 🔁 **Re-review** — the court remembers its past verdict and is held to its own advice
-- 📁 **Archive** with search, the forecast next to the real result (CTR, conversion, sales), export to Markdown and PDF
-- 💸 **Token-aware** — shared prompt prefixes are cached by the providers, and the report shows how much was read from cache
+- <img src="docs/media/ui/target.svg" width="22" height="22" align="absmiddle" alt="" /> **Appeals** — a short re-hearing for one specific audience with advice tailored to it
+- <img src="docs/media/ui/refresh.svg" width="22" height="22" align="absmiddle" alt="" /> **Re-review** — the court remembers its past verdict and is held to its own advice
+- <img src="docs/media/ui/archive.svg" width="22" height="22" align="absmiddle" alt="" /> **Archive** with search, the forecast next to the real result (CTR, conversion, sales), export to Markdown and PDF
+- <img src="docs/media/ui/coins.svg" width="22" height="22" align="absmiddle" alt="" /> **Token-aware** — shared prompt prefixes are cached by the providers, and the report shows how much was read from cache
 
 <img src="docs/media/archive.webp" alt="The case archive with outcomes and scores" width="100%" />
 

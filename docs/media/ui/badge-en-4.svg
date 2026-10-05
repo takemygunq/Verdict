@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="311" height="28" viewBox="0 0 311 28" role="img" aria-label="models Claude · GPT · Gemini · Ollama">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#c9a227"/><stop offset="1" stop-color="#f0d36b"/></linearGradient></defs>
+<rect x=".5" y=".5" width="310" height="27" rx="13.5" fill="#17130a" stroke="#c9a227" stroke-opacity=".45"/>
+<g transform="translate(18,14)" fill="none" stroke="#c9a227" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="-5" y="-5" width="10" height="10" rx="1.5"/><path d="M-2.5 -8v3M2.5 -8v3M-2.5 5v3M2.5 5v3M-8 -2.5h3M-8 2.5h3M5 -2.5h3M5 2.5h3" stroke="#f0d36b"/></g>
+<text x="34" y="18" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="11" font-weight="600" fill="#f3e9df">models</text>
+<path d="M84.8 1h214.0a12 12 0 0 1 12 12v2a12 12 0 0 1-12 12h-214.0z" fill="url(#g)"/>
+<text x="95.8" y="18" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="11" font-weight="800" fill="#17130a">Claude · GPT · Gemini · Ollama</text>
+</svg>

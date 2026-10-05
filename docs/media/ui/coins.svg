@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="coins">
+<rect width="48" height="48" rx="10" fill="#17130a"/><rect x=".5" y=".5" width="47" height="47" rx="9.5" fill="none" stroke="#c9a227" stroke-opacity=".35"/>
+<g fill="none" stroke="#c9a227" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="22" cy="14" rx="12" ry="5"/><path d="M10 14v8c0 3 5 5 12 5s12-2 12-5v-8M10 22v8c0 3 5 5 12 5" stroke="#f0d36b"/><path d="M34 27c5 0 8 2 8 4v8c0 2-4 4-9 4"/></g></svg>

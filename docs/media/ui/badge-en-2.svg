@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="114" height="28" viewBox="0 0 114 28" role="img" aria-label="PixiJS 8">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#c9a227"/><stop offset="1" stop-color="#f0d36b"/></linearGradient></defs>
+<rect x=".5" y=".5" width="113" height="27" rx="13.5" fill="#17130a" stroke="#c9a227" stroke-opacity=".45"/>
+<g transform="translate(18,14)" fill="none" stroke="#c9a227" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M0 -8l2.5 5.5L8 0 2.5 2.5 0 8l-2.5-5.5L-8 0l5.5-2.5z"/></g>
+<text x="34" y="18" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="11" font-weight="600" fill="#f3e9df">PixiJS</text>
+<path d="M84.8 1h16.8a12 12 0 0 1 12 12v2a12 12 0 0 1-12 12h-16.8z" fill="url(#g)"/>
+<text x="95.8" y="18" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="11" font-weight="800" fill="#17130a">8</text>
+</svg>
